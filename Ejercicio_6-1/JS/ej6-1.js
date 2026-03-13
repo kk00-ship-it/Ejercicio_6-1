@@ -87,18 +87,4 @@ function rellenarTabla(tabla){
         break;
     }
 
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
 }
